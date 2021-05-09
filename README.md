@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-– 🔭 I’m currently working on xnTools
+– 🔭 I’m currently working on GlowRP
 
 – 🌱 I’m currently learning C#, Python, JavaScript
 
