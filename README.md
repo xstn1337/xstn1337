@@ -7,5 +7,3 @@
 – 📫 How to reach me: xstn1337#5834
 
 – ⚡ Fun fact: I'm genius
-
-https://xncode.pl
