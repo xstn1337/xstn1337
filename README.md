@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python. 
+- 🌱  I’m currently learning Java Java Java Java Java Java.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: xstn1337#5834.
 
